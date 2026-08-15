@@ -1,0 +1,32 @@
+# Core Data & Analysis
+pandas
+numpy
+scikit-learn
+joblib
+
+# Deep Learning & Computer Vision
+torch
+torchvision
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
+
+# Vector Database
+chromadb
+
+# Generative AI & Environment
+google-genai
+python-dotenv
+"google-api-core<2.28"
+importlib-metadata
+
+# Frontend & Utilities
+streamlit
+watchdog
+pillow
+matplotlib
+tqdm
+
+# Development (Optional but helpful)
+jupyter
+ipykernel

@@ -1,0 +1,14 @@
+# Environments
+.venv/
+__pycache__/
+.env
+
+# Large Data & Embeddings (Local only)
+*.npy
+*.pkl
+fashion_vector_db/
+images/
+*.csv
+
+# OS specific
+.DS_Store
